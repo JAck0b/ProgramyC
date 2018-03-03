@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514916016 source:/home/jakub/Dokumenty/Labolatoria/Labolatorium_4/Zadanie_2code/Mastermind.c/main.c
+	<stdio.h>
+	<stdbool.h>
+

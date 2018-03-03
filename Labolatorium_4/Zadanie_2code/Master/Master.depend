@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516304476 source:/home/jakub/Dokumenty/Labolatoria/Labolatorium_4/Zadanie_2code/Master/main.c
+	<stdio.h>
+	<stdbool.h>
+
+1516458695 source:c:\users\kuba\desktop\master\main.c
+	<stdio.h>
+	<stdbool.h>
+

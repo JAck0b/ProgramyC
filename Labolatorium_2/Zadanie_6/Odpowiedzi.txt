@@ -1,0 +1,8 @@
+6 jest liczbą doskonałą.
+28 jest liczbą doskonałą.
+496 jest liczbą doskonałą.
+(6, 6)
+(28, 28)
+(220, 284)
+(284, 220)
+(496, 496)
